@@ -1,6 +1,6 @@
 3rd party
 
- - Newtonsoft.Json
+ - Newtonsoft.Json (https://www.newtonsoft.com/json)
  
 The MIT License (MIT)
 
@@ -21,9 +21,9 @@ PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
 FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+--------------
 
-- HtmlAgilityPack
+- HtmlAgilityPack (https://html-agility-pack.net/)
 
 The MIT License (MIT)
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -44,9 +44,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+--------------
 
-- ControlzEx
+- ControlzEx (https://github.com/ControlzEx/ControlzEx)
 
 
 The MIT License (MIT)
@@ -70,9 +70,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-------------------------------------------------------------------------------------------------------------------------------------------
 
-- MahApps.Metro
+--------------
+
+- MahApps.Metro (https://mahapps.com/)
 
 MIT License (MIT)
 
@@ -95,9 +96,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-------------------------------------------------------------------------------------------------------------------------------------------
 
-- MahApps.Metro.Resources
+--------------
+
+- MahApps.Metro.Resources (https://mahapps.com/)
 
 MIT License
 
