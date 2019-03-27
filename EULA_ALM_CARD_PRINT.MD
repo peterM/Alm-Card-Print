@@ -1,8 +1,8 @@
-# MalikP. ALM Card Print
+### MalikP. ALM Card Print
 
-# Copyright (c) 2017 Ing. Peter Malik
+#### Copyright (c) 2017 Ing. Peter Malik
 
-*** END USER LICENSE AGREEMENT ***
+** END USER LICENSE AGREEMENT **
 
 IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
 
