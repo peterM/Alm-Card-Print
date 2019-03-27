@@ -1,4 +1,22 @@
-3rd party
+
+#### MalikP. ALM Card Print
+##### THIRD PARTY CODE NOTICE                     
+
+
+This software is based on or incorporates material from
+the projects listed below (collectively, "Third Party Code").
+Ing. Peter Malik is not the original author of the Third
+Party Code. The original copyright notice and the license
+under which Ing. Peter Malik received such Third Party Code
+are set forth below. Such licenses and notices are provided
+for informational purposes only. 
+Ing. Peter Malik licenses the Third Party Code to you under
+the terms set forth in the Terms of Use for the Ing. Peter
+Malik product. Ing. Peter Malik reserve all other rights
+not expressly granted under the Terms of Use, whether
+by implication, estoppel or otherwise. 
+
+--------------
 
  - Newtonsoft.Json (https://www.newtonsoft.com/json)
  
